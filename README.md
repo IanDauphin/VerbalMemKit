@@ -12,4 +12,4 @@ We hope to see you soon!
 Co-Authors of VerbalMemKit:
 - Ian Dauphinee, M.A.Ps. Candidate.
 - James Donelle, BCS.
-- Sho Ishiguro
+- Sho Ishiguro, PhD.
