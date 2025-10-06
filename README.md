@@ -10,6 +10,5 @@ We hope others won't have to endure this pain, so we've made it our mission to c
 We hope to see you soon!
 
 Co-Authors of VerbalMemKit:
-- Ian Dauphinee, M.A.Ps. Candidate.
-- James Donelle, BCS.
+- Ian Dauphinee, M.A.
 - Sho Ishiguro, PhD.
